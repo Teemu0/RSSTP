@@ -37,7 +37,7 @@ feedback = [(3.0, 0.0),(1.0,0.07),(2.0,0.07)]
 #([330, 3, 357], [(2.6, -1.5), (4.38, -2.41), (5.25, -2.91)])
 obj = External(n, p, l, o, d, feedback)
 
-print("Moved to position: ")
+print("Moved to position: ")zxczxc
 print(obj.get_position())
 print("Reached destination: ")
 print(obj.get_sensory_data())
